@@ -1,5 +1,5 @@
 # Lista-Mercado
-##Casos de usu
+##Casos de Uso
 ### Cadastrar Produtos
 Informar o nome de um determindado produto e o sistema o armazena no banco.
 
